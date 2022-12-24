@@ -6,6 +6,25 @@ This app loads and displays current weather by city.
 
 At the end, it displays a weather list of 5 cities : Rennes, Paris, Nantes, Bordeaux and Lyon
 
+## Demo
+### Weather display of a city with loading progress
+
+
+https://user-images.githubusercontent.com/100363875/209430911-70b51db9-9dfb-4aa3-a608-cae6368a2998.mp4
+
+
+### Weather list display with restart of the weather recovery
+
+
+https://user-images.githubusercontent.com/100363875/209430920-4adb3ff4-ea85-4d83-899e-e44963847c95.mp4
+
+
+### Error handling with snack with a display of a snackbar
+
+
+https://user-images.githubusercontent.com/100363875/209430925-6457b489-2423-407c-a96b-580539b11d48.mp4
+
+
 ## :notebook: Features
 - Weather display by calling the API request every 10 seconds
 - Waiting message display every 6 seconds
